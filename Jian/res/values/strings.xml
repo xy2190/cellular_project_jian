@@ -4,5 +4,8 @@
     <string name="app_name">Jian</string>
     <string name="menu_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_jian_game">JianGameActivity</string>
+    <string name="title_activity_extras_menu">ExtrasMenuActivity</string>
+    <string name="title_activity_options_menu">OptionsMenuActivity</string>
 
 </resources>

@@ -22,6 +22,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.projects.project_jian.JianGameActivity"
+            android:label="@string/title_activity_jian_game" >
+        </activity>
+        <activity
+            android:name="com.projects.project_jian.ExtrasMenuActivity"
+            android:label="@string/title_activity_extras_menu" >
+        </activity>
+        <activity
+            android:name="com.projects.project_jian.OptionsMenuActivity"
+            android:label="@string/title_activity_options_menu" >
+        </activity>
     </application>
 
 </manifest>
